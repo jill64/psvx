@@ -1,6 +1,6 @@
 {
   "name": "@jill64/psx",
-  "description": "⚡️ Execution Prettier + Svelte on the fly",
+  "description": "⚡️ Execute Prettier for Svelte on the fly",
   "version": "0.0.1",
   "type": "module",
   "bin": "index.js",
