@@ -1,2 +1,2 @@
-# psx
-⚡️ Execution Prettier + Svelte on the fly
+<!----- BEGIN GHOST DOCS HEADER ----->
+<!----- END GHOST DOCS HEADER ----->

@@ -1,0 +1,34 @@
+{
+  "name": "@jill64/psx",
+  "description": "",
+  "version": "0.0.0",
+  "type": "module",
+  "bin": "index.js",
+  "license": "MIT",
+  "author": "jill64 <intents.turrets0h@icloud.com> (https://github.com/jill64)",
+  "bugs": "https://github.com/jill64/psx/issues",
+  "homepage": "https://github.com/jill64/psx#readme",
+  "files": [
+    "index.js",
+    "plugin.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jill64/psx.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [],
+  "prettier": "@jill64/prettier-config",
+  "scripts": {
+    "lint": "npx publint",
+    "format": "node index.js"
+  },
+  "devDependencies": {
+    "@jill64/prettier-config": "0.0.1"
+  },
+  "dependencies": {
+    "prettier-plugin-svelte": "3.1.2"
+  }
+}
