@@ -1,6 +1,6 @@
 {
   "name": "@jill64/psx",
-  "description": "",
+  "description": "⚡️ Execution Prettier + Svelte on the fly",
   "version": "0.0.0",
   "type": "module",
   "bin": "index.js",
@@ -10,7 +10,9 @@
   "homepage": "https://github.com/jill64/psx#readme",
   "files": [
     "index.js",
-    "plugin.js"
+    "plugin.js",
+    "!*.test.*",
+    "!*.spec.*"
   ],
   "repository": {
     "type": "git",
@@ -19,7 +21,12 @@
   "publishConfig": {
     "access": "public"
   },
-  "keywords": [],
+  "keywords": [
+    "cli",
+    "prettier",
+    "shorthand",
+    "svelte"
+  ],
   "prettier": "@jill64/prettier-config",
   "scripts": {
     "lint": "npx publint",
