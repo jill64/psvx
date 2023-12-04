@@ -6,12 +6,6 @@
 
 ⚡️ Execute Prettier for Svelte on the fly
 
-## Installation
-
-```sh
-npm i @jill64/psx
-```
-
 <!----- END GHOST DOCS HEADER ----->
 
 ## Usage
@@ -23,5 +17,5 @@ npx @jill64/psx
 This is equivalent to the following command, with dependencies already resolved
 
 ```sh
-npx prettier --write . --plugin prettier-plugin-svelte .
+npx prettier -w . --plugin prettier-plugin-svelte .
 ```
