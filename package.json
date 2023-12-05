@@ -10,9 +10,7 @@
   "homepage": "https://github.com/jill64/psx#readme",
   "files": [
     "index.js",
-    "plugin.js",
-    "!*.test.*",
-    "!*.spec.*"
+    "plugin.js"
   ],
   "repository": {
     "type": "git",
@@ -27,11 +25,11 @@
     "shorthand",
     "svelte"
   ],
-  "prettier": "@jill64/prettier-config",
   "scripts": {
     "lint": "npx publint",
     "format": "node index.js"
   },
+  "prettier": "@jill64/prettier-config",
   "devDependencies": {
     "@jill64/prettier-config": "0.0.2"
   },
