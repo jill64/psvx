@@ -1,8 +1,12 @@
 <!----- BEGIN GHOST DOCS HEADER ----->
 
-# psx
+# @jill64/psx
 
-[![npm-version](https://img.shields.io/npm/v/@jill64/psx)](https://npmjs.com/package/@jill64/psx) [![npm-license](https://img.shields.io/npm/l/@jill64/psx)](https://npmjs.com/package/@jill64/psx) [![npm-download-month](https://img.shields.io/npm/dm/@jill64/psx)](https://npmjs.com/package/@jill64/psx) [![npm-min-size](https://img.shields.io/bundlephobia/min/@jill64/psx)](https://npmjs.com/package/@jill64/psx)
+
+<!----- BEGIN GHOST DOCS BADGES ----->
+<a href="https://npmjs.com/package/@jill64/psx"><img src="https://img.shields.io/npm/v/@jill64/psx" alt="npm-version" /></a> <a href="https://npmjs.com/package/@jill64/psx"><img src="https://img.shields.io/npm/l/@jill64/psx" alt="npm-license" /></a> <a href="https://npmjs.com/package/@jill64/psx"><img src="https://img.shields.io/npm/dm/@jill64/psx" alt="npm-download-month" /></a> <a href="https://npmjs.com/package/@jill64/psx"><img src="https://img.shields.io/bundlephobia/min/@jill64/psx" alt="npm-min-size" /></a>
+<!----- END GHOST DOCS BADGES ----->
+
 
 ⚡️ Execute Prettier for Svelte on the fly
 
@@ -19,3 +23,11 @@ This is equivalent to the following command, with dependencies already resolved
 ```sh
 npx prettier -w . --plugin prettier-plugin-svelte .
 ```
+
+<!----- BEGIN GHOST DOCS FOOTER ----->
+
+## License
+
+MIT
+
+<!----- END GHOST DOCS FOOTER ----->
