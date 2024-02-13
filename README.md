@@ -2,11 +2,11 @@
 
 # @jill64/psx
 
-
 <!----- BEGIN GHOST DOCS BADGES ----->
-<a href="https://npmjs.com/package/@jill64/psx"><img src="https://img.shields.io/npm/v/@jill64/psx" alt="npm-version" /></a> <a href="https://npmjs.com/package/@jill64/psx"><img src="https://img.shields.io/npm/l/@jill64/psx" alt="npm-license" /></a> <a href="https://npmjs.com/package/@jill64/psx"><img src="https://img.shields.io/npm/dm/@jill64/psx" alt="npm-download-month" /></a> <a href="https://npmjs.com/package/@jill64/psx"><img src="https://img.shields.io/bundlephobia/min/@jill64/psx" alt="npm-min-size" /></a>
-<!----- END GHOST DOCS BADGES ----->
 
+<a href="https://npmjs.com/package/@jill64/psx"><img src="https://img.shields.io/npm/v/@jill64/psx" alt="npm-version" /></a> <a href="https://npmjs.com/package/@jill64/psx"><img src="https://img.shields.io/npm/l/@jill64/psx" alt="npm-license" /></a> <a href="https://npmjs.com/package/@jill64/psx"><img src="https://img.shields.io/npm/dm/@jill64/psx" alt="npm-download-month" /></a> <a href="https://npmjs.com/package/@jill64/psx"><img src="https://img.shields.io/bundlephobia/min/@jill64/psx" alt="npm-min-size" /></a>
+
+<!----- END GHOST DOCS BADGES ----->
 
 ⚡️ Execute Prettier for Svelte on the fly
 
@@ -28,6 +28,6 @@ npx prettier -w . --plugin prettier-plugin-svelte .
 
 ## License
 
-MIT
+[MIT](LICENSE)
 
 <!----- END GHOST DOCS FOOTER ----->
