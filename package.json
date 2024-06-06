@@ -1,7 +1,7 @@
 {
   "name": "@jill64/psx",
   "description": "⚡️ Execute Prettier for Svelte on the fly",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "type": "module",
   "bin": "index.js",
   "license": "MIT",
@@ -20,7 +20,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/psx.git",
-    "image": "https://opengraph.githubassets.com/05405941d280cf7afa4a6903e1177783cec0dfbff24f638e71f84c7a9b5e8f89/jill64/psx"
+    "image": "https://opengraph.githubassets.com/daaee827fec828c1b6459d93e454877494f643b8d3cfd792a4c7b11529dfa2de/jill64/psx"
   },
   "publishConfig": {
     "access": "public"
@@ -41,6 +41,6 @@
   },
   "dependencies": {
     "prettier": "3.3.1",
-    "prettier-plugin-svelte": "3.2.3"
+    "prettier-plugin-svelte": "3.2.4"
   }
 }
