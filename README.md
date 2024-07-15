@@ -15,7 +15,7 @@
 ## Usage
 
 ```sh
-npx @jill64/psx
+npx psvx
 ```
 
 This is equivalent to the following command, with dependencies already resolved
