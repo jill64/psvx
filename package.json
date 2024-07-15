@@ -11,16 +11,16 @@
     "url": "https://github.com/jill64",
     "image": "https://avatars.githubusercontent.com/u/143883742?v=4"
   },
-  "bugs": "https://github.com/jill64/psx/issues",
-  "homepage": "https://github.com/jill64/psx#readme",
+  "bugs": "https://github.com/jill64/psvx/issues",
+  "homepage": "https://github.com/jill64/psvx#readme",
   "files": [
     "index.js",
     "plugin.js"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jill64/psx.git",
-    "image": "https://opengraph.githubassets.com/a3c0ba084a124cfc493a621262eeb74e769871de8c4f17a2b2317fde224a9e4b/jill64/psx"
+    "url": "https://github.com/jill64/psvx.git",
+    "image": "https://opengraph.githubassets.com/c1374ecf32789d4be31135b45cc4a72014b5eb78e84e3c7069bd7cb8e63f8927/jill64/psvx"
   },
   "publishConfig": {
     "access": "public"

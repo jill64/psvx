@@ -1,10 +1,10 @@
 <!----- BEGIN GHOST DOCS HEADER ----->
 
-# @jill64/psx
+# psvx
 
 <!----- BEGIN GHOST DOCS BADGES ----->
 
-<a href="https://npmjs.com/package/@jill64/psx"><img src="https://img.shields.io/npm/v/@jill64/psx" alt="npm-version" /></a> <a href="https://npmjs.com/package/@jill64/psx"><img src="https://img.shields.io/npm/l/@jill64/psx" alt="npm-license" /></a> <a href="https://npmjs.com/package/@jill64/psx"><img src="https://img.shields.io/npm/dm/@jill64/psx" alt="npm-download-month" /></a> <a href="https://npmjs.com/package/@jill64/psx"><img src="https://img.shields.io/bundlephobia/min/@jill64/psx" alt="npm-min-size" /></a>
+<a href="https://npmjs.com/package/psvx"><img src="https://img.shields.io/npm/v/psvx" alt="npm-version" /></a> <a href="https://npmjs.com/package/psvx"><img src="https://img.shields.io/npm/l/psvx" alt="npm-license" /></a> <a href="https://npmjs.com/package/psvx"><img src="https://img.shields.io/npm/dm/psvx" alt="npm-download-month" /></a> <a href="https://npmjs.com/package/psvx"><img src="https://img.shields.io/bundlephobia/min/psvx" alt="npm-min-size" /></a>
 
 <!----- END GHOST DOCS BADGES ----->
 
