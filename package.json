@@ -1,7 +1,7 @@
 {
   "name": "psvx",
   "description": "⚡️ Execute Prettier for Svelte on the fly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "bin": "index.js",
   "license": "MIT",
