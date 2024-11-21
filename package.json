@@ -20,7 +20,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/psvx.git",
-    "image": "https://opengraph.githubassets.com/b68b1961d8ff2363fae1586e450603033cfbe9c02eff4865b31ec1dacfe65282/jill64/psvx"
+    "image": "https://opengraph.githubassets.com/38ef969f8eefddc68947197ec14156800319719bd1bc9a38f27ec54e229c7579/jill64/psvx"
   },
   "publishConfig": {
     "access": "public"
